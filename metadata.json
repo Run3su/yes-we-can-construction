@@ -1,0 +1,7 @@
+{
+  "name": "Yes We Can Construction Ltd - Premier Property Management & Construction",
+  "description": "A high-end, professional management and construction company website based in London. Specializing in luxury residential renovations and property management.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
